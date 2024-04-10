@@ -9,4 +9,4 @@ class NetworkInformationToolsCoreTests(unittest.TestCase):
         pcuc = NetworkInformationToolsCore()
 
         # act
-        pcuc.loop_action(False,lambda *args: None)
+        pcuc.loop_action(False, lambda *args: None)
