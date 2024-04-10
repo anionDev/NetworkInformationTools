@@ -1,0 +1,6 @@
+[run]
+source = .
+omit = ./venv/*,*__init__.py,./NetworkInformationTools/Other/*,./NetworkInformationToolsTests/*,Setup.py
+
+[report]
+omit = ./venv/*,*__init__.py,./NetworkInformationTools/Other/*,./NetworkInformationToolsTests/*,Setup.py
